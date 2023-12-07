@@ -1,0 +1,59 @@
+#######################################
+# Syntax Coloring Map For rsl
+#######################################
+# Class
+#######################################
+
+DynamicArray    KEYWORD1
+DynamicList	KEYWORD1
+StaticArray	KEYWORD1
+StaticList	KEYWORD1
+Dequeue KEYWORD1
+Queue	KEYWORD1
+Stack	KEYWORD1
+ByteAllocator   KEYWORD1
+ObjectAllocator KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+# base containers
+
+addFront	KEYWORD2
+addBack KEYWORD2
+add KEYWORD2
+appendFront KEYWORD2
+appendBack  KEYWORD2
+append  KEYWORD2
+front   KEYWORD2
+back    KEYWORD2
+popFront    KEYWORD2
+popBack KEYWORD2
+remove  KEYWORD2
+searchRemove    KEYWORD2
+removeAll   KEYWORD2
+removeRange KEYWORD2
+empty   KEYWORD2
+trimToSize  KEYWORD2
+capacity    KEYWORD2
+isEmpty KEYWORD2
+contains    KEYWORD2
+length  KEYWORD2
+capacity    KEYWORD2
+get KEYWORD2
+indexOf KEYWORD2
+lastIndexOf KEYWORD2
+getRowArray KEYWORD2
+print   KEYWORD2
+
+# allocator
+
+malloc	KEYWORD2
+free	KEYWORD2
+length  KEYWORD2
+maxBytes    KEYWORD2
+maxObjects  KEYWORD2
+
+#######################################
+# Constants
+#######################################
